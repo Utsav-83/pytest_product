@@ -1,4 +1,3 @@
-# test_product.py
 from product import get_product_info
 
 def test_get_product_info():

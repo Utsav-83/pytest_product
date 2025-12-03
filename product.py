@@ -9,6 +9,6 @@ def get_product_info(product_id, name, quantity, price):
     )
 
 # Demo run (optional)
-if _name_ == "_main_":
+if __name__ == "__main__":
     result = get_product_info("P101", "Keyboard", 5, 750)
     print(result)
